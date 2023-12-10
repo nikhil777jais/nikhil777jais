@@ -45,7 +45,7 @@ I'm a passionate Full Stack Developer with expertise in building scalable and in
 - **Web Technologies**: WebSocket, SignalR, JWT, OpenID, OAuth
 - **ORM**: Entity Framework Core
 - **Others**: Jinja2, .NET Core Identity, VS code, Visual Studio
-- 
+  
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikhil777jais&show_icons=true&hide=prs&count_private=true&theme=radical)
 
