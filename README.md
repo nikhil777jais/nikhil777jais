@@ -49,6 +49,8 @@ I'm a passionate Full Stack Developer with expertise in building scalable and in
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikhil777jais&show_icons=true&hide=prs&count_private=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil777jais&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 📫 Let's Connect!
 - LinkedIn: [https://www.linkedin.com/in/nikkkkhil](https://www.linkedin.com/in/nikkkkhil)
 
