@@ -47,6 +47,8 @@ I'm a passionate Full Stack Developer with expertise in building scalable and in
 - **Others**: Jinja2, .NET Core Identity, VS code, Visual Studio
   
 ## 📊 GitHub Stats
+![nikhil777jais's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nikhil777jais&theme=radical&hide_border=false)
+
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikhil777jais&show_icons=true&hide=prs&count_private=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil777jais&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
