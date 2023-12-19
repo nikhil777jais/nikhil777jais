@@ -34,7 +34,7 @@
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ## About Me
-I'm a passionate Full Stack Developer with expertise in building scalable and innovative web applications. My skills range from front-end technologies like Angular and Bootstrap to back-end technologies like .NET Core and Django. I enjoy working on challenging projects and solving complex problems.
+I'm a passionate **Full Stack Developer** with expertise in building scalable and innovative web applications. My skills range from front-end technologies like **Angular and Bootstrap** to back-end technologies like **.NET Core and Django**. I enjoy working on challenging projects and solving complex problems.
 
 ## Tech Stack
 - **Frontend**: Angular, HTML, CSS, Bootstrap, Angular Material
